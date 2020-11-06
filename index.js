@@ -111,7 +111,7 @@ Use the getReviewByIndex function below to do the following:
 */
 
 
-function getReviewByIndex(/*Your code here*/) {
+function getReviewByIndex() {
   /*Your code here*/
 }
 
